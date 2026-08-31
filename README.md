@@ -16,3 +16,7 @@ Aprender a:
 1. Crie uma branch a partir da `master`
 2. Faça sua alteração
 3. Abra um Pull Request descrevendo o que mudou
+
+## Contato
+
+Dúvidas ou sugestões? Abra uma issue neste repositório.
