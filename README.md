@@ -1,6 +1,6 @@
 # Meu Primeiro PR
 
-Este é um reposítorio de exemplo criado para praticar o fluxo de Pull Request no GitHub.
+Este é um repositório de exemplo criado para praticar o fluxo de Pull Request no GitHub.
 
 ## Objetivo
 
